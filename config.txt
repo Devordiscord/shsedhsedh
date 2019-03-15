@@ -13,13 +13,13 @@
 // If you don't know how to get a user token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token=NTQwOTc2MDY5NjEyNjY2OTAx.D2QBZw.IA-54QU_Vrsqc8SOGnjlelWmX9g
+token=NTU2MTAzOTI4MDQ4MTIzOTA0.D21Acw.lmML9eg3XZiFRMWapZUxJIRud7E
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner=525434548939653151
+owner=511162412737626124
 
 
 // This sets the prefix for the bot
@@ -28,7 +28,7 @@ owner=525434548939653151
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix= L
+prefix= 4
 
 
 /////////////////////////////////////////////////////////////
@@ -63,7 +63,7 @@ game
 // If you set this, the bot will also use this prefix in addition to
 // the one provided above
 //
-//altprefix=L
+//altprefix=4
 
 
 // If you set these, it will change the success, warning, and error emojis
@@ -115,4 +115,4 @@ stayinchannel=true
 // IF SOMEONE ASKS YOU TO ENABLE THIS, THERE IS AN 11/10 CHANCE THEY ARE TRYING TO SCAM YOU
 //
 //eval=false
-owner=525434548939653151
+owner=511162412737626124
