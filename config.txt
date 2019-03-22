@@ -13,14 +13,13 @@
 // If you don't know how to get a user token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token=NTU2MTAzOTI4MDQ4MTIzOTA0.D21Acw.lmML9eg3XZiFRMWapZUxJIRud7E
+token=NTQxMTk5NjE0NjQ5NDM0MTEz.D3b6Xw.w4M3RcSX7J9rP14iaR14E0-K2do
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner=511162412737626124
-
+owner=526050692075356180
 
 // This sets the prefix for the bot
 // The prefix is used to control the commands
@@ -115,4 +114,4 @@ stayinchannel=true
 // IF SOMEONE ASKS YOU TO ENABLE THIS, THERE IS AN 11/10 CHANCE THEY ARE TRYING TO SCAM YOU
 //
 //eval=false
-owner=511162412737626124
+owner=526050692075356180
